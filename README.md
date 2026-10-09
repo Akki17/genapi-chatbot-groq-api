@@ -1,2 +1,2 @@
-# grok-chatbot-api
-A minimalist boilerplate for your first xAI Grok chatbot project.
+# groq-chatbot-api
+A minimalist boilerplate for your first xAI Groq chatbot project.
