@@ -1,0 +1,4 @@
+ipykernel
+dotenv
+langchain-groq
+streamlit
